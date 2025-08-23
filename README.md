@@ -146,8 +146,8 @@ F1 ≈ 0.77, Accuracy ≈ 0.77, Recall ≈ 0.77
 
 ## Autores
 
-- Katia M. Villarnobo G.
-- Jaziel Carballo-Tadeo
+- [Katia M. Villarnobo G.](https://github.com/katiami)
+- [Jaziel Carballo-Tadeo](https://github.com/jazielcarballo)
 
 ## Referencias
 
