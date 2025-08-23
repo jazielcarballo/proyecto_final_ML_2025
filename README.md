@@ -115,7 +115,7 @@ Estos resultados confirman la importancia de la **normalización en modelos line
 ## Referencias
 
 - INEGI (Dataset del concurso de ciencia de datos)
-- Solo Electrónicos, Cómo crear un dataset en el formato H5, 9 diciembre 2021. [En línea]. [Accedido: 9 agosto 2025].
+- Solo Electrónicos, Cómo crear un dataset en el formato H5, 9 diciembre 2021. [En línea]. [[Accedido: 9 agosto 2025](https://soloelectronicos.com/2021/12/09/como-crear-un-dataset-en-el-formato-h5/)].
 - Documentación de Scikit-learn
 - L. Breiman, Random forests, \textit{Machine Learning}, vol. 45, no. 1, pp. 5–32, 2001.
 - A Wavelet Tour of Signal Processing, Academic Press, 2008.
