@@ -106,6 +106,43 @@ Estos resultados confirman la importancia de la **normalización en modelos line
   - `h5py`
   - `jupyter`  
 
+## Instrucciones de instalació0n
+
+Sigue estos pasos para configurar el proyecto en tu máquina local:
+
+1. **Clonar el repositorio**
+   ```bash
+   git clone https://github.com/jazielcarballo/proyecto_final_ML_2025.git
+   cd <proyecto_final_ML_2025>
+   
+## Como reproducir los resultados obtenidos
+
+Sigue estos pasos para reproducir los resultados obtenidos en el proyecto:
+
+1. **Preparar el entorno**
+   - Clonar el repositorio y crear un entorno virtual.  
+   - Instalar las dependencias listadas en `requirements.txt`.  
+   ```bash
+   git clone https://github.com/<usuario>/<nombre-repo>.git
+   cd <nombre-repo>
+   pip install -r requirements.txt
+
+2. **Descargar y organizar el dataset**
+
+ - Obtener el dataset desde el enlace oficial:
+📂 [Google Drive Dataset](https://drive.google.com/drive/folders/1UgnUSvjYG3G9-1ZIqNnZuKAalWcfMGTe?usp=drive_link)
+ - Colocar los archivos en la carpeta data/.
+
+3. **Ejecutar la solución inicial (balanced dataset)**
+  - Al finalizar, se generarán métricas de Accuracy, F1 Score y Recall para los modelos entrenados.
+
+4. **Ejecutar la solución avanzada**
+5. **Generar reportes y visualizaciones**
+6. **Resultados esperados**
+  - Random Forest:
+F1 ≈ 0.8054, Accuracy ≈ 0.8057, Recall ≈ 0.8038
+  - Regresión Logística (normalizada):
+F1 ≈ 0.77, Accuracy ≈ 0.77, Recall ≈ 0.77
 
 ## Autores
 
